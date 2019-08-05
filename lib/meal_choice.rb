@@ -6,3 +6,4 @@ def
 
 end
 
+meal_choice ("broccoli", "macaroni")
